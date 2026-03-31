@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "base_track": "pinkie",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-31T22:40:28.687349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's a Pony Kind of Christmas - Twilight Sparkle, Rainbow Dash, Apple Jack, Pinkie Pie, Rarity, Fluttershy & Phoenix Chamber Choir",
+      "artist": "Various artists",
+      "has_synced": true,
+      "path": "select/01_It's_a_Pony_Kind_of_Christmas_-_Twilight_Sparkle,_Rainbow_Dash,_Apple_Jack,_Pink_Various_artists.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pinkie Bard",
+      "artist": "Koa",
+      "has_synced": true,
+      "path": "select/02_Pinkie_Bard_Koa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Interactive Pinkie Pie (TIF remix)",
+      "artist": "TIFWhitney",
+      "has_synced": false,
+      "path": "select/03_Interactive_Pinkie_Pie_(TIF_remix)_TIFWhitney.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Interactive Pinkie Pie",
+      "artist": "TIFWhitney",
+      "has_synced": false,
+      "path": "select/04_Interactive_Pinkie_Pie_TIFWhitney.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pinkie Swear",
+      "artist": "Into It. Over It.",
+      "has_synced": true,
+      "path": "select/05_Pinkie_Swear_Into_It._Over_It..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Om Jou Pinkie",
+      "artist": "Juanita du Plessis",
+      "has_synced": false,
+      "path": "select/06_Om_Jou_Pinkie_Juanita_du_Plessis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Twelve Days of Christmas - Pinkie Pie",
+      "artist": "My Little Pony",
+      "has_synced": true,
+      "path": "select/07_Twelve_Days_of_Christmas_-_Pinkie_Pie_My_Little_Pony.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hearth's Warming Eve Is Here Once Again - Applejack, Rainbow Dash, Pinkie Pie, Rarity & Fluttershy",
+      "artist": "My Little Pony",
+      "has_synced": true,
+      "path": "select/08_Hearth's_Warming_Eve_Is_Here_Once_Again_-_Applejack,_Rainbow_Dash,_Pinkie_Pie,_R_My_Little_Pony.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "PINKIE SILLY",
+      "artist": "Zyrtck",
+      "has_synced": true,
+      "path": "select/09_PINKIE_SILLY_Zyrtck.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "pinkie pie",
+      "artist": "Sillyelly",
+      "has_synced": true,
+      "path": "select/10_pinkie_pie_Sillyelly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Interactive Pinkie Pie (TIF Remix)",
+      "artist": "T.I.F.",
+      "has_synced": false,
+      "path": "select/11_Interactive_Pinkie_Pie_(TIF_Remix)_T.I.F..txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "PINKIE PUNK",
+      "artist": "TRINSET",
+      "has_synced": true,
+      "path": "select/12_PINKIE_PUNK_TRINSET.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "PINKIE SILLY (feat. Jordan)",
+      "artist": "Zyrtck",
+      "has_synced": true,
+      "path": "select/13_PINKIE_SILLY_(feat._Jordan)_Zyrtck.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Capitan Celaeno; Rainbow Dash; Applejack; Pinkie Pie; Fluttershy; Rarity; Spike; Boyle; First Mate Mullet; Lix Spittle / Time To Be Awesome",
+      "artist": "Paul \"DJ White Shadow\" Blair",
+      "has_synced": true,
+      "path": "select/14_Capitan_Celaeno;_Rainbow_Dash;_Applejack;_Pinkie_Pie;_Fluttershy;_Rarity;_Spike;_Paul__DJ_White_Shadow__Blair.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "pinkie",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/15_pinkie_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "PINKIE SILLY (feat. Jordan)",
+      "artist": "Zyrtck",
+      "has_synced": true,
+      "path": "select/16_PINKIE_SILLY_(feat._Jordan)_Zyrtck.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "pinkie pie",
+      "artist": "EnimraK",
+      "has_synced": true,
+      "path": "select/17_pinkie_pie_EnimraK.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "It's a Pony Kind of Christmas - Twilight Sparkle, Rainbow Dash, Apple Jack, Pinkie Pie, Rarity, Fluttershy & Phoenix Chamber Choir",
+      "artist": "My Little Pony",
+      "has_synced": true,
+      "path": "select/18_It's_a_Pony_Kind_of_Christmas_-_Twilight_Sparkle,_Rainbow_Dash,_Apple_Jack,_Pink_My_Little_Pony.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "pinkie pie",
+      "artist": "Sillyelly, EnimraK",
+      "has_synced": true,
+      "path": "select/19_pinkie_pie_Sillyelly,_EnimraK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "pinkie",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_pinkie_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "pinkie",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/localdb_01_pinkie_BUMP_OF_CHICKEN.txt",
+      "repo_name": "v7APK8P0Pv4"
+    }
+  ]
+}
